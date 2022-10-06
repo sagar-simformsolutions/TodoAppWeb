@@ -1,10 +1,10 @@
-import { StyleSheet, Platform, StatusBar } from 'react-native';
+import {StyleSheet, Platform, StatusBar} from 'react-native';
 
 export const styles = StyleSheet.create({
   container: {
     flex: 1,
     paddingTop: Platform.OS === 'android' ? StatusBar.currentHeight : 0,
-    backgroundColor: '#f7f8fa',
+    backgroundColor: '#e3f2fd',
   },
   pageTitle: {
     marginBottom: 35,

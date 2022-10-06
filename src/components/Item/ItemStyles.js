@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
     paddingTop: 10,
     paddingBottom: 15,
     paddingHorizontal: 15,
-    backgroundColor: '#f7f8fa',
+    backgroundColor: '#e3f2fd',
   },
   itemCheckbox: {
     justifyContent: 'center',

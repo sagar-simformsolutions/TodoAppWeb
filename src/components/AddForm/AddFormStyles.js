@@ -6,7 +6,7 @@ export const styles = StyleSheet.create({
     marginTop: 'auto',
     marginBottom: 30,
     paddingHorizontal: 20,
-    backgroundColor: '#f7f8fa',
+    backgroundColor: '#e3f2fd',
   },
   inputField: {
     flex: 1,
