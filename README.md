@@ -35,10 +35,10 @@ This project is made to understand how React Native-web works and its basic conf
      yarn web
      ```
 
----
-
 ## Check Medium blog post for configuration and setup from scratch.
 
 ```bash
 https://medium.com/@sagarpawarlive/26d698c37113
 ```
+
+---
